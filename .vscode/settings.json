@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.cc": "cpp",
+        "*.java": "java",
+        "coroutine": "cpp",
+        "iostream": "cpp"
+    }
+}
